@@ -1,5 +1,7 @@
 # Spring Boot 2.0
 
+
+
 ## Spring Boot 三个特性
 
 1. 组件的自动装配：web mvc， web flux
